@@ -17,7 +17,9 @@ I have a T-shaped skillset:
 While I don't do as many projects in my spare time as I used to, over the past couple of years I've:
 * Authored a [spying/stubbing library](https://github.com/jbodah/spy_rb) for testing Ruby code
 * Maintained the [canonical vim language plugin](https://github.com/elixir-editors/vim-elixir) for the [Elixir programming language](https://elixir-lang.org/)
-* Wrote a [game](https://github.com/jbodah/game_jam-locked) for a Game Jam (which you can [play here](https://jbodah.itch.io/admin-play)!)
+* Published a [game](https://github.com/jbodah/game_jam-locked) for a Game Jam (which you can [play here](https://jbodah.itch.io/admin-play)!)
 * Developed a [toolkit](https://github.com/jbodah/bgg_tools) for analyzing data from and automating workflows related to [BoardGameGeek](https://boardgamegeek.com/)
 * Built a [simulator](https://github.com/jbodah/metro_x_map_generator) for the board game [Metro X](https://boardgamegeek.com/boardgame/248861/metro-x)
 * Created a [program](https://github.com/jbodah/mosaic) which can produce [photo mosaics](https://www.google.com/search?client=firefox-b-1-d&q=photo+mosaics)
+* Deployed a [Rails app](https://github.com/jbodah/gamenight) which allowed my friends and me to more easily view our combined boardgame collection for game nights ([screenshot](https://github.com/jbodah/gamenight/blob/master/example.png))
+* Created [a way](https://github.com/jbodah/spotifuby) for our team to control our central Spotify instance from Slack during the workday
