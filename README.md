@@ -7,6 +7,7 @@ I have a T-shaped skillset:
 * Below is a complete list of technologies which I've used and maintained in production (in no particular order):
   * Front-end technologies (React, Angular, Backbone, SASS)
   * Serving infrastructure (httpd, nginx, envoy, consul, Docker, Kubernetes, daemontools)
+  * Configuration management (Terraform, Puppet, Chef)
   * Cloud tooling and services (AWS, statsd, Honeycomb, Prometheus, Grafana, Splunk)
   * CP-style databases (MySQL/MariaDB, MongoDB, Postgres)
   * NoSQL databases (Redis, Cassandra)
