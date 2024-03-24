@@ -8,6 +8,7 @@ I have a T-shaped skillset:
   * Front-end technologies (React, Angular, Backbone, SASS)
   * Serving infrastructure (httpd, nginx, envoy, consul, Docker, Kubernetes, daemontools)
   * Configuration management (Terraform, Puppet, Chef)
+  * Build tools (Bazel, Jenkins, Travis)
   * Cloud tooling and services (AWS, statsd, Honeycomb, Prometheus, Grafana, Splunk)
   * CP-style databases (MySQL/MariaDB, MongoDB, Postgres)
   * NoSQL databases (Redis, Cassandra)
