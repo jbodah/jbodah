@@ -3,7 +3,7 @@
 My name is Josh. I've been working as a SWE for the last decade mostly focussed on backend infrastructure and foundational work. I currently work for Stripe where I am focussed on improving the scalability, reliability, efficiency, and operational excellence of their 12k+ node MongoDB fleet.
 
 I have a T-shaped skillset:
-* My depth is in Ruby, Golang, Erlang/Elixir, backend services, and [CP-style](https://www.linkedin.com/pulse/exploring-cap-theorem-trade-offs-different-types-databases-roshan/) databases. I am particularly experienced with working on reliability, scaling, and performance initiatives pertaining to large-scale distributed systems.
+* My depth is in Ruby, Golang, Erlang/Elixir, backend services, and [CP-style](https://www.ibm.com/topics/cap-theorem) databases. I am particularly experienced with working on reliability, scaling, and performance initiatives pertaining to large-scale distributed systems.
 * Below is a complete list of technologies which I've used and maintained in production (in no particular order):
   * Front-end technologies (React, Angular, Backbone, SASS)
   * Serving infrastructure (httpd, nginx, envoy, consul, Docker, Kubernetes, daemontools)
