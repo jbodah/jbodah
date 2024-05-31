@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-My name is Josh. I've been working as a SWE for the last decade mostly focussed on backend infrastructure and foundational work. I currently work for Stripe where I am focussed on improving the scalability, reliability, efficiency, and operational excellence of their 12k+ node MongoDB fleet.
+My name is Josh. I've been working as a SWE for the last decade mostly focussed on backend infrastructure and foundational work. I currently work for Stripe where I am focussed on improving the scalability, reliability, efficiency, and operational standards regarding their massive MongoDB fleet.
 
-I have a T-shaped skillset:
 * My depth is in Ruby, Golang, Erlang/Elixir, backend services, and [CP-style](https://www.ibm.com/topics/cap-theorem) databases. I am particularly experienced with working on reliability, scaling, and performance initiatives pertaining to large-scale distributed systems.
 * Below is a complete list of technologies which I've used and maintained in production (in no particular order):
   * Front-end technologies (React, Angular, Backbone, SASS)
@@ -27,7 +26,7 @@ While I don't do as many projects in my spare time as I used to, over the past c
 * Created [a way](https://github.com/jbodah/spotifuby) for our team to control our central Spotify instance from Slack during the workday
 
 Outside of my work:
-* I am an active musician and have 20+ years of experience playing guitar. I have played on each of the folowing releases: [[1](https://perkuploserprince.bandcamp.com/track/boston-ivy)][[2](https://backtalkma.bandcamp.com/track/make-the-grade)][[3](https://open.spotify.com/album/3WAcbHQYLeEGyUEowGzvEK)]
-* I play _a lot_ of board games and am an [active user](https://boardgamegeek.com/user/hiimjosh) on BoardGameGeek
+* I am an active musician and have 20+ years of experience playing guitar
+* I play _a lot_ of board games
 * I enjoy training to become fluent in Spanish with comprehensible input
 * I like to read fantasy and graphic novels. My favorite fantasy series include Mistborn, The Farseer Trilogy, and The First Law. My favorite graphic novels include Bone, Y: The Last Man, and Locke & Key
